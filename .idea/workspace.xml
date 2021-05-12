@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94473d92-fb40-4808-8584-6c136d07e2c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1sPnVNA1OJUD6q6g4WuI7NKvWoB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (app)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (app)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94473d92-fb40-4808-8584-6c136d07e2c4" name="Default Changelist" comment="" />
+      <created>1620783115297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620783115297</updated>
+      <workItem from="1620783116514" duration="1419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="269" key="GridCell.Tab.0.bottom" timestamp="1620783742019">
+      <screen x="-1920" y="-42" width="1920" height="1001" />
+    </state>
+    <state width="1899" height="269" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-42.1920.1001@-1920.-42.1920.1001" timestamp="1620783742019" />
+    <state width="1899" height="269" key="GridCell.Tab.0.center" timestamp="1620783742017">
+      <screen x="-1920" y="-42" width="1920" height="1001" />
+    </state>
+    <state width="1899" height="269" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-42.1920.1001@-1920.-42.1920.1001" timestamp="1620783742017" />
+    <state width="1899" height="269" key="GridCell.Tab.0.left" timestamp="1620783742015">
+      <screen x="-1920" y="-42" width="1920" height="1001" />
+    </state>
+    <state width="1899" height="269" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-42.1920.1001@-1920.-42.1920.1001" timestamp="1620783742015" />
+    <state width="1899" height="269" key="GridCell.Tab.0.right" timestamp="1620783742018">
+      <screen x="-1920" y="-42" width="1920" height="1001" />
+    </state>
+    <state width="1899" height="269" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-42.1920.1001@-1920.-42.1920.1001" timestamp="1620783742018" />
+  </component>
+</project>
